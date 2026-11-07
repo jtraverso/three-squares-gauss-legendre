@@ -1,0 +1,15 @@
+{
+  "challenge_module": "ThreeSquaresChallenge",
+  "solution_module": "ThreeSquaresSolution",
+  "theorem_names": [
+    "GaussLegendre.sum_three_sq_iff",
+    "GaussLegendre.exists_sum_sq_of_mod_eight_eq_three"
+  ],
+  "definition_names": [],
+  "permitted_axioms": [
+    "propext",
+    "Quot.sound",
+    "Classical.choice"
+  ],
+  "enable_nanoda": true
+}
